@@ -1,6 +1,6 @@
 Django is a web framework built on top of Python that allows you to rapidly create and maintainable web applications. In this course, we'll start by installing Python and Django. I'll walk you through how to configure and set up a simple project. Next, we'll look at how models, URL patterns, views, and templates are used together to create powerful modular code. Once we have a solid grasp of each of these, we'll create simple application.
 
-==============================================================================================================
+============================================================================================
 Second Channel For B.Tech Subject:--- https://www.youtube.com/@csgeeks2.0
 
 ✅ Other Playlists,
